@@ -22,7 +22,7 @@ This combination of software engineering, data science, and cybersecurity allows
 - **CompTIA A+** (Completed)
 - **CompTIA Network+** (Pending)
 - **CompTIA CYSA+** (Pending)
-- **CompTIA Security+** (Pending)
+- **CompTIA Security+** (Completed)
 - **Cisco CCNA** (Pending)
 
 ## Skills
